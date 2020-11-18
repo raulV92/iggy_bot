@@ -1,0 +1,6 @@
+lista de comandos disponibles:
+
+/help:    muestra comando disponibles
+/status:  estatus de alarma y watch 
+/watch:   Enciende y apaga alarma   
+/panic:   Encinde o apaga Sirena
